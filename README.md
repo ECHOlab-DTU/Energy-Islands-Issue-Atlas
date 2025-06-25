@@ -2,10 +2,6 @@
 
 # Energy Islands, Issue Atlas
 
-### The Energy Islands case
-
-
-
 ### What is the Issue Atlas? 
 
 The Issue Atlas is a PDF report that serves as a teaching resource for the analysis of sociotechnical controversies. It draws on a concept from Science & Technology Studies and allows students to follow how concerns on a specific topic are raised by actors over time. The report also provides background information on the case, explains the methods used, and presents key features of the data. It is accompanied by additional case material, including datasets and tools for further exploration.
