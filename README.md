@@ -25,9 +25,7 @@ This case material came together thanks to the work and input of the students fr
 
 ### Project team
 
-- [ECHO LAB](https://echolab-dtu.github.io/web/)
-- [Good by devicing - ERC project](https://www.good-by-devicing.org/)
-- [Public data lab](https://publicdatalab.org/)
+[ECHO LAB](https://echolab-dtu.github.io/web/), [Good by devicing - ERC project](https://www.good-by-devicing.org/), [Public data lab](https://publicdatalab.org/)
 
 
 - Mathieu Jacomy
