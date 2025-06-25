@@ -1,4 +1,4 @@
-![Cover](./Images/Readme_cover.png)
+![Cover](./Readme_cover.png)
 
 # Energy-Islands-Issue-Atlas
 
