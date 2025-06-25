@@ -31,7 +31,8 @@ This case material came together thanks to the work and input of the students fr
 - Sarah Feldes
 - Ainoa Pubill
 - Julia Kirch Kirkegaard
-- Tom Cronin Daniel Nordstrand Frantzen
+- Tom Cronin
+- Daniel Nordstrand Frantzen
 - Emil Nissen
 - Sebastian Husted
 
