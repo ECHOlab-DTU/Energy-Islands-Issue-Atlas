@@ -1,6 +1,6 @@
 ![Cover](./Readme_cover.png)
 
-# Energy Islands, Issue Atlas
+# Energy Islands. The Issue Atlas
 
 ### What is the Issue Atlas? 
 
